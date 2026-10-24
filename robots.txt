@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jazblue.github.io/jays-kent-roofing/sitemap.xml
